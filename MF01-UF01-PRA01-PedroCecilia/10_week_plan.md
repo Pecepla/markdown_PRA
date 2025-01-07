@@ -7,7 +7,7 @@
 - • Configuración del entorno de desarrollo React
 - • Introducción a JSX y elementos básicos
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Principios ágiles y manifesto Scrum
 
@@ -23,7 +23,7 @@
 - • Componentes y props
 - • Estado y ciclo de vida
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Roles y responsabilidades en Scrum
 
@@ -39,7 +39,7 @@
 - • Hooks básicos (useState, useEffect)
 - • Manejo de eventos
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Eventos Scrum y ceremonias
 
@@ -55,7 +55,7 @@
 - • Renderizado condicional
 - • Listas y keys
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Product Backlog y Sprint Backlog
 
@@ -71,7 +71,7 @@
 - • Context API
 - • Hooks personalizados
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Estimación y planificación
 
@@ -87,7 +87,7 @@
 - • React Router
 - • Navegación y rutas protegidas
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Sprint Review y Retrospective
 
@@ -103,7 +103,7 @@
 - • Formularios controlados
 - • Validación de formularios
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Métricas y KPIs en Scrum
 
@@ -119,7 +119,7 @@
 - • Integración con APIs
 - • Axios y fetch
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Escalado de Scrum
 
@@ -135,7 +135,7 @@
 - • Testing en React
 - • Jest y React Testing Library
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Gestión de equipos múltiples
 
@@ -151,7 +151,7 @@
 - • Optimización y performance
 - • Despliegue de aplicaciones React
 
-**Miércoles - Scrum**
+**Miércoles - Scrum Agile**
 
 - • Casos prácticos y simulación
 
